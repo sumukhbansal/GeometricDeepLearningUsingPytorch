@@ -1,2 +1,2 @@
 # GeometricDeepLearningUsingPytorch
-This repository contains my research experiments in the domain of geometric deep learning using the framework pyorch.  
+This repository contains my experiments in the domain of geometric deep learning using the pyorch framework.  
